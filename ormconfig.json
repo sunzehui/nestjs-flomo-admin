@@ -1,13 +1,13 @@
 [
-  {
-    "name": "default",
-    "type": "mysql",
-    "host": "101.35.5.117",
-    "port": 3306,
-    "username": "flomo",
-    "password": "flomo",
-    "database": "",
-    "synchronize": false,
-    "entities": ["entities/*.js"]
-  }
+    {
+        "name": "default",
+        "type": "mysql",
+        "host": "101.35.5.117",
+        "port": 3306,
+        "username": "tttttt",
+        "password": "tttttt",
+        "database": "tttttt",
+        "synchronize": false,
+        "entities": ["entities/*.js"]
+    }
 ]

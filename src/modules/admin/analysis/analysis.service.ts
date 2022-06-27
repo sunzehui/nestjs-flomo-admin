@@ -54,7 +54,6 @@ export class AnalysisService {
             .createQueryBuilder()
             .groupBy('date')
             .getMany();
-        console.log(record);
         return record;
     }
 }
